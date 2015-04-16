@@ -1,0 +1,26 @@
+{
+    "name": "moc-tool",
+    "version": "0.0.1-alpha.1",
+    "description": "为构造moc数据提供必要的工具函数",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wenber/moc-tool.git"
+    },
+    "dependencies": {
+    },
+    "bin": {
+    },
+    "keywords": [
+        "moc-tool"
+    ],
+    "author": "wenbo.fe@gmail.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/wenber/moc-tool/issues"
+    },
+    "homepage": "https://github.com/wenber/moc-tool.git"
+}

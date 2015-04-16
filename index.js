@@ -3,8 +3,10 @@
  * @author Ming Liu(wenbo.fe@gmail.com)
  * @date 2015-02-09
  */
+/* globals exports */
+'use strict';
 
-define(function (require, module, exports) {
+exports.mocTool = function () {
     return {
         'boolean': require('./lib/boolean'),
         'char': require('./lib/char'),
@@ -12,4 +14,4 @@ define(function (require, module, exports) {
         'time': require('./lib/time'),
         'tpl': require('./lib/tpl')
     };
-});
+};
