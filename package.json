@@ -1,8 +1,8 @@
 {
     "name": "moc-tool",
-    "version": "0.0.1-alpha.1",
+    "version": "0.0.2",
     "description": "为构造moc数据提供必要的工具函数",
-    "main": "index.js",
+    "main": "./index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },

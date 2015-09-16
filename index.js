@@ -3,7 +3,9 @@
  * @author Ming Liu(wenbo.fe@gmail.com)
  * @date 2015-02-09
  */
+
 /* globals exports */
+
 'use strict';
 
 exports.mocTool = function () {
