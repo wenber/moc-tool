@@ -1,6 +1,6 @@
 {
     "name": "moc-tool",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "为构造moc数据提供必要的工具函数",
     "main": "./index.js",
     "scripts": {
